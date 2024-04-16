@@ -8,6 +8,9 @@ seaborn
 catboost
 xgboost
 Flask
+streamlit
 dill
 mlflow
+
+
 #-e .
